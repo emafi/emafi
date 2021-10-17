@@ -1,6 +1,6 @@
 ### Hello, everyone! 👋
 
-####  I'm a Junior Angular Developer and I love:
+I'm a Junior Angular Developer and I love:
 * :wrench: building things from scratch
 * :page_facing_up: single-page applications
 * :pizza: pizza _(unrelated to programming, but it's what keeps me going)_
