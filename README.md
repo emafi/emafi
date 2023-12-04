@@ -1,6 +1,6 @@
 ### Hello, everyone! 👋
 
-**I'm a Junior Front-end Developer and I love:**
+**I'm a Front-end Developer and I love:**
 * :wrench: building things from scratch,
 * :open_file_folder: keeping my projects tidy and organized;
 * :pizza: pizza _(unrelated to programming, but it's what keeps me going)._
